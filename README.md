@@ -6,9 +6,27 @@
 python >= 3.6.0
 pip >= 19.0.0
 
-### Install following packages
+### Step 0: 
+Install following packages
+
 ```
-pip install jupyter numpy pandas sympy
+pip install jupyter numpy pandas sympy matplotlib
 ```
+
+### Step 1: 
+Enter the following command in CLI:
+```
+$ jupyter notebook
+```
+
+### Step 2: 
+Open ``` localhost:8888 ``` in your browser.
+
+### Step 3:
+???
+
+### Step 4:
+Enjoy!!!
+
 
  
