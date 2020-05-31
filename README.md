@@ -8,7 +8,7 @@ pip >= 19.0.0
 
 ### Install following packages
 ```
-pip instal jupyter numpy pandas sympy
+pip install jupyter numpy pandas sympy
 ```
 
  
